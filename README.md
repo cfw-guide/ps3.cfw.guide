@@ -1,6 +1,8 @@
-## example.cfw.guide
+## ps3.cfw.guide
 
-An example repo to build cfw.guide sites from 
+A modding guide for the PS3.
+
+https://ps3.emiyl.com
 
 ## Running the site locally
 
@@ -10,8 +12,8 @@ This requires the following installed to your system:
 
 To test the website locally, simply run the following commands:
 ```
-git clone https://github.com/example.cfw.guide.git --recursive
-cd example.cfw.guide
+git clone https://github.com/ps3.cfw.guide.git --recursive
+cd ps3.cfw.guide
 yarn install
 yarn dev
 ```

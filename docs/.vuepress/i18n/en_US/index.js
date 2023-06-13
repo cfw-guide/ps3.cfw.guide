@@ -3,7 +3,7 @@ module.exports = {
   
   locales: {
     lang: 'en-US',
-    title: '___ Guide',
+    title: 'PS3 Guide',
     description: 'A complete guide to ___ and ___.',
   },
   
